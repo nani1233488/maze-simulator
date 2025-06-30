@@ -1,4 +1,4 @@
-# maze-simulator
+# Maze Generator
 
 The Project consists of generating a square maze primarily using 5 algorithms :
   1) Recursive backtracking
